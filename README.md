@@ -43,7 +43,6 @@ real-time-crypto-dashboard/
 │
 ├── README.md
 ├── app.py
-├── requirements.txt
 └── crypto_data.csv (generated while running the application)
 ```
 
