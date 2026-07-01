@@ -63,13 +63,8 @@ git clone https://github.com/bhavyat-23/real-time-crypto-dashboard.git
 cd real-time-crypto-dashboard
 ```
 
-### 3. Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Application
+### 3. Run the Application
 
 ```bash
 streamlit run app.py
