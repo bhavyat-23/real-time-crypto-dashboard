@@ -75,11 +75,7 @@ The dashboard will open automatically in your web browser.
 
 ## 📊 Dashboard Preview
 
-> Add a screenshot of the running dashboard here after uploading `crypto_dashboard.png`.
-
-```markdown
 ![Crypto Dashboard](crypto_dashboard.png)
-```
 
 ---
 
